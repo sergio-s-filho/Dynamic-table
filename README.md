@@ -17,7 +17,8 @@ propria para criação de matrizes, será utilizado a ideia de listas dentro de 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Fazer com que a adição de novas linhas respeite a quantidade de colunas ja inseridas
-- [ ] Numeração das linhas e colunas
+- [x] Numeração das linhas 1 -> n
+- [ ] Numeração das colunas de A -> n
 - [ ] Inserção de dados na tabela, caso as informaçoes inseridas de um texto forem maiores que a quantidade de colunas, isso gera a adição de colunas extra para a tabela
  
  ## 💻 Pré-requisitos
