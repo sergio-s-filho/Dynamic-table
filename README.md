@@ -5,7 +5,12 @@ Dynamic table builder in python using lists
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-![image](https://user-images.githubusercontent.com/39635961/194985255-22b121f8-a4f8-440c-92d0-3be4fad46103.png)
+![Capturar01](https://user-images.githubusercontent.com/39635961/195004440-790feb66-0b4e-4bb9-b0ca-821365be0bcc.PNG) </br> </br>
+![Capturar02](https://user-images.githubusercontent.com/39635961/195004448-dbabe494-e241-4f2a-8966-90a3be623a54.PNG) </br> </br>
+![Capturar03](https://user-images.githubusercontent.com/39635961/195004454-7e808c5e-b49c-4b89-ab2d-d71d96f25d5b.PNG) </br> </br>
+![Capturar04](https://user-images.githubusercontent.com/39635961/195004460-317053a6-72e6-45b9-98ae-51f6ca2f2b20.PNG) </br> </br>
+![Capturar05](https://user-images.githubusercontent.com/39635961/195004465-a73fe4eb-acd9-4cf3-90ac-f639203e8de8.PNG) </br> </br>
+
 
 
 Projeto visa entender e simular uma aplicação de tabela parecida com a do Excel, onde temos linhas e colunas e podemos inserir dados. A parte dinamica da tabela 
