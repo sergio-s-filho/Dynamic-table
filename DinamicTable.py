@@ -1,5 +1,6 @@
 class Tabela:
     tabela = None
+    quantidadeColunas = 0
 
     def __init__(self):
         self.tabela = [ ]
@@ -7,6 +8,9 @@ class Tabela:
     def insere_linhas(self,quantidadeLinhas):
         for i in range(quantidadeLinhas):
             self.tabela.append([])
+            for j in range(len(self.tabela[0])):
+               self.tabela[len(self.tabela) - 1].append([])
+
         print("Quantidade de Linhas adicionadas " + str(quantidadeLinhas) + "\n")
 
     def insere_colunas(self,quantidadeColunas):
@@ -16,18 +20,6 @@ class Tabela:
 
         print("Quantidade de Colunas adicionadas " + str(quantidadeColunas) + "\n")
 
-    def valor(self,linha,coluna):
-        print("O valor que esta contido na Linha: " + str(linha) + " Coluna: " + str(coluna))
-        return str(self.tabela[linha][coluna])
-
-
-    def altera_valor(self,linha,coluna,valor):
-        if((len(self.tabela) - 1 )>= linha and (len(self.tabela[0]) - 1) >= coluna):
-            self.tabela[linha][coluna] = valor
-            print("O valor da linha "+ str(linha) + " coluna"+ str(coluna) + " Foi alterado para: "+
-                 str(valor) +"\n")
-        else:
-            print("A coluna e a linha nao existe")
 
     def __repr__(self):
         texto  = ""
@@ -38,12 +30,15 @@ class Tabela:
         return texto
 
 objeto = Tabela()
+objeto.insere_linhas(1)
+print(objeto)
 objeto.insere_linhas(3)
 print(objeto)
 objeto.insere_colunas(4)
 print(objeto)
-objeto.altera_valor(2,1,40)
+objeto.insere_linhas(3)
 print(objeto)
-objeto.altera_valor(2,2,50)
+objeto.insere_linhas(4)
 print(objeto)
-print(objeto.valor(2,2))
+objeto.insere_colunas(7)
+print(objeto)
