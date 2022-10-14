@@ -12,7 +12,7 @@ Dynamic table builder in python using lists
 
 
 Projeto visa entender e simular uma aplicação de tabela parecida com a do Excel, onde temos linhas e colunas e podemos inserir dados. A parte dinamica da tabela 
-vem do resize, onde todas as linhas devem ter a mesma quantidade de colunas, sempre formando uma matriz quadradao ou retangular.Como em python nao temos uma Syntax
+vem do resize, onde todas as linhas devem ter a mesma quantidade de colunas, sempre formando uma matriz quadrada ou retangular.Como em python nao temos uma Syntax
 propria para criação de matrizes, será utilizado a ideia de listas dentro de listas para criação de nossa tabela.
 
 ### Ajustes e melhorias
