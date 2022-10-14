@@ -5,11 +5,9 @@ Dynamic table builder in python using lists
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-![Capturar01](https://user-images.githubusercontent.com/39635961/195004440-790feb66-0b4e-4bb9-b0ca-821365be0bcc.PNG) </br> </br>
-![Capturar02](https://user-images.githubusercontent.com/39635961/195004448-dbabe494-e241-4f2a-8966-90a3be623a54.PNG) </br> </br>
-![Capturar03](https://user-images.githubusercontent.com/39635961/195004454-7e808c5e-b49c-4b89-ab2d-d71d96f25d5b.PNG) </br> </br>
-![Capturar04](https://user-images.githubusercontent.com/39635961/195004460-317053a6-72e6-45b9-98ae-51f6ca2f2b20.PNG) </br> </br>
-![Capturar05](https://user-images.githubusercontent.com/39635961/195004465-a73fe4eb-acd9-4cf3-90ac-f639203e8de8.PNG) </br> </br>
+
+![image](https://user-images.githubusercontent.com/39635961/195773377-ff5f1cbf-0285-41a6-af02-e75589ed0d4d.png)
+
 
 
 
@@ -23,8 +21,13 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x] Fazer com que a adição de novas linhas respeite a quantidade de colunas ja inseridas
 - [x] Numeração das linhas 1 -> n
-- [ ] Numeração das colunas de A -> n
-- [ ] Inserção de dados na tabela, caso as informaçoes inseridas de um texto forem maiores que a quantidade de colunas, isso gera a adição de colunas extra para a tabela
+- [x] Numeração das colunas de A -> n
+- [x] Conseguir alterar o valor da Tabela
+- [x] Mostrar o valor contido na linha X e coluna Y da tabela
+- [ ] implementar a remoção de Linhas
+- [ ] implementar a remoção de Colunas
+- [ ] Deixar a inserção de dados dinâmica, caso as informações inseridas de um texto forem maiores que a quantidade de colunas, isso gera a adição de colunas extra para a tabela
+ 
  
  ## 💻 Pré-requisitos
  
