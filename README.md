@@ -24,8 +24,8 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Numeração das colunas de A -> n
 - [x] Conseguir alterar o valor da Tabela
 - [x] Mostrar o valor contido na linha X e coluna Y da tabela
-- [ ] implementar a remoção de Linhas
-- [ ] implementar a remoção de Colunas
+- [x] implementar a remoção de Linhas
+- [x] implementar a remoção de Colunas
 - [ ] Deixar a inserção de dados dinâmica, caso as informações inseridas de um texto forem maiores que a quantidade de colunas, isso gera a adição de colunas extra para a tabela
  
  
